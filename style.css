@@ -167,6 +167,7 @@ body {
     background-position: 47% -2%;
     background-size: 30rem;
     padding: 4rem;
+    margin-bottom : 5rem;
   }
   .container__hero {
     overflow: visible;
